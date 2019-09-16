@@ -1,0 +1,14 @@
+c:\users\kelvi\onedrive\documents\visual studio 2013\Projects\Fractal\Fractal\bin\Debug\Fractal.exe.config
+c:\users\kelvi\onedrive\documents\visual studio 2013\Projects\Fractal\Fractal\bin\Debug\Fractal.exe
+c:\users\kelvi\onedrive\documents\visual studio 2013\Projects\Fractal\Fractal\bin\Debug\Fractal.pdb
+c:\users\kelvi\onedrive\documents\visual studio 2013\Projects\Fractal\Fractal\obj\Debug\Fractal.csprojResolveAssemblyReference.cache
+c:\users\kelvi\onedrive\documents\visual studio 2013\Projects\Fractal\Fractal\obj\Debug\Fractal.exe
+c:\users\kelvi\onedrive\documents\visual studio 2013\Projects\Fractal\Fractal\obj\Debug\Fractal.pdb
+C:\Users\kelvi\Desktop\entertain me\2019\fractal\Fractal\Fractal\bin\Debug\Fractal.exe.config
+C:\Users\kelvi\Desktop\entertain me\2019\fractal\Fractal\Fractal\bin\Debug\Fractal.exe
+C:\Users\kelvi\Desktop\entertain me\2019\fractal\Fractal\Fractal\bin\Debug\Fractal.pdb
+C:\Users\kelvi\Desktop\entertain me\2019\fractal\Fractal\Fractal\obj\Debug\Fractal.csprojAssemblyReference.cache
+C:\Users\kelvi\Desktop\entertain me\2019\fractal\Fractal\Fractal\obj\Debug\Fractal.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\Desktop\entertain me\2019\fractal\Fractal\Fractal\obj\Debug\Fractal.csproj.CopyComplete
+C:\Users\kelvi\Desktop\entertain me\2019\fractal\Fractal\Fractal\obj\Debug\Fractal.exe
+C:\Users\kelvi\Desktop\entertain me\2019\fractal\Fractal\Fractal\obj\Debug\Fractal.pdb
