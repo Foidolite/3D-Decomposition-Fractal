@@ -12,10 +12,10 @@ EX1:
 ![alt text](images/EX1/3.png)
 
 EX2:
-![alt text](images/EX1/0.png)
-![alt text](images/EX1/1.png)
-![alt text](images/EX1/2.png)
-![alt text](images/EX1/3.png)
+![alt text](images/EX2/0.png)
+![alt text](images/EX2/1.png)
+![alt text](images/EX2/2.png)
+![alt text](images/EX2/3.png)
 
 Using OpenGL and Tao.FreeGlut/FreeGlut.
 
