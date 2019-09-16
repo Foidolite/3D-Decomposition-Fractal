@@ -1,5 +1,5 @@
 # 3D-Decomposition-Fractal
-A rudimentary tool for generating walkable 3d fractals via following specified decomposition pathways at each recursion stage.
+A rudimentary tool for generating walkable 3d fractals by following specified decomposition pathways at each recursion stage.
 An executable can be found in the bin/Debug folder. By replacing the files in the assets folder with those of your own you can generate custom fractals. 
 
 Two example fractal assets are included: (found in EX1 and EX2 folders under the bin/Debug folder)
