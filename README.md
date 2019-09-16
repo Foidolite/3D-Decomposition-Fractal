@@ -2,8 +2,14 @@
 A rudimentary tool for generating walkable 3d fractals via following specified decomposition pathways at each recursion stage.
 An executable can be found in the bin/Debug folder. By replacing the files in the assets folder with those of your own you can generate custom fractals. 
 
-Two example fractal assets are included (found in EX1 and EX2 folders under the bin/Debug folder)
+Two example fractal assets are included: (found in EX1 and EX2 folders under the bin/Debug folder)
+
+EX1:
 ![alt text](images/EX1/0.png)
+![alt text](images/EX1/1.png)
+![alt text](images/EX1/2.png)
+![alt text](images/EX1/3.png)
+
 
 Using OpenGL and Tao.FreeGlut/FreeGlut.
 
